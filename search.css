@@ -1,0 +1,27 @@
+#LJWholeThing3{
+	background-color:rgba(94, 142, 78, 0.525);
+	min-height: 700px;
+}
+#searchBar {
+	padding-top: 25px;
+	padding-left: 650px;
+}
+#glasses{
+	color: salmon;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#searchLJH1{
+	font-weight: bold;
+	padding-top: 50px;
+	padding-left: 200px;
+}
+#ljSearchResult{
+	padding-left: 760px;
+	padding-top: 40px;
+	font-size: 30px;
+}
+#LJunf{
+	padding-left: 730px;
+	padding-top: 50px;
+}

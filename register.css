@@ -1,0 +1,51 @@
+#wholeThingLJ3{
+    min-height: 900px;
+    background-image: url('cucumber.png');
+}
+
+.lamacorn2{
+    position: relative;
+    left: 600px;
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+.ljName{
+    position: relative;
+    left: 140px;
+    margin-bottom: 20px;
+}
+
+.ljAge{
+    position: relative;
+    left: 140px;
+    margin-bottom: 20px;
+}
+
+.ljUsername{
+    position: relative;
+    left: 140px;
+    margin-bottom: 20px;
+}
+
+.ljPassword{
+    position: relative;
+    left: 140px;
+    margin-bottom: 20px;
+}
+
+.ljRegisterButton{
+    position: relative;
+/* border-radius: 50%; */
+width: 100px;
+height: 50px;
+left: 190px;
+font-size: 15px;
+font-weight: bold;
+margin-top: 10px;
+margin-bottom: 10px;
+background-color: rgba(67, 119, 123, 0);
+color: black;
+border: 2px solid #00010274;
+}
